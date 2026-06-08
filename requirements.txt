@@ -1,7 +1,11 @@
 streamlit
-requests
 python-dotenv
-PyPDF2
+langchain-deepseek
+langchain-core
+langchain-community
+langchain-huggingface
 chromadb
+huggingface-hub
 sentence-transformers
+PyPDF2
 python-docx
